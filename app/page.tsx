@@ -36,7 +36,7 @@ export default async function Home() {
           className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
           style={{ animationDelay: "0.25s", animationFillMode: "forwards" }}
         >
-          An opinionated collection of nonsenses or...truth👀
+          “An opinionated collection of nonsense👀”
         </p>
       </div>
       <div className="my-10 grid w-full max-w-screen-xl animate-fade-up grid-cols-1 gap-5 px-5 md:grid-cols-3 xl:px-0">
@@ -61,7 +61,7 @@ const features = [
     description:
       
       "💁🏻‍♂️ About me: enterprenuer and builder, from data scientist to CTO advisor, have led large global coporate project for emerging tech, now turned myself into a web3 builder⚒️\n\n" +
-      "👷 Project in build: CEO of MobiFi, web3 travel platform for digital nomad.\n\n" + 
+      "👷 Project in build: Co-founder of MobiFi, web3 travel platform for digital nomad.\n\n" + 
       "📖 Learning: web3 development, solidity and Spanish🇪🇸\n\n"+
       "🧑🏻‍💻 Fun fact: I am not a developer, but I love writing code",
     

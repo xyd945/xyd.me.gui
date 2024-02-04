@@ -13,7 +13,7 @@ export default function Footer() {
         >
           Yudi Xu
         </a>
-        , 2023
+        , since 2023
       </p>
       {/* <a
         href="https://www.buymeacoffee.com/steventey"
