@@ -1,5 +1,4 @@
-<a href="https://xyd.me">
-  <img alt="xyd is me - all about tech & nonsense (terminal version)">
+<a href="https://xyd.me">xyd is me - all about tech & nonsense (terminal version)</a>
   <h1 align="center">xyd is me</h1>
 </a>
 
