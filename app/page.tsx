@@ -99,7 +99,7 @@ const features = [
   {
     title: "Books I am reding",
     description:
-      "Reading a book helps my brian gets smarter 🧠✨",
-    demo: <ImageOrGif src="book.gif" alt="working in progress" />,
+      "Reading a book helps my brian gets smarter 🧠✨ follow my [📚reading list](https://abundant-playroom-04a.notion.site/Reading-List-dd2619af81eb43de834ece965b1a8aad?pvs=4)",
+    demo: <ImageOrGif src="book.gif" alt="book i read" />,
   },
 ];
