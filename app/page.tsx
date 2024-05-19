@@ -83,10 +83,10 @@ const features = [
     demo: <ImageOrGif src="/recording.gif" alt="recoding" />,
   },
   {
-    title: "5 Things to watch today",
+    title: "Lives I have lived ",
     description:
-      "AI generated headlines on topics of tech and finance everyday, coming soon...",
-    demo: <ImageOrGif src="workinginprogress.gif" alt="working in progress" />,
+      "The lives in the past, now and future...",
+    demo: <ImageOrGif src="earth.gif" alt="lives I have lived" />,
     large: true
   },
   {
