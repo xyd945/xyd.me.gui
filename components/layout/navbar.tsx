@@ -20,12 +20,12 @@ export default function NavBar() {
           <Link href="/" className="flex items-center font-display text-2xl">
             <Image
               src="/logo.png"
-              alt="xyd is me logo"
+              alt="xyd.me logo"
               width="30"
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p>xyd is me</p>
+            <p>Live Different</p>
           </Link>
         </div>
       </div>
